@@ -1,0 +1,28 @@
+{
+  "name": "com.playfab.playfabsdk",
+  "version": "1.178.240401",
+  "displayName": "Playfab SDK",
+  "description": "Playfab C# SDK",
+  "unity": "2023.2",
+  "unityRelease": "16f1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zombience/Playfab_CSharpSDK/releases/tag/1.178.240401_unity.git"
+  },
+  "dependencies": {
+    "org.pollyproject.polly": "7.2.3"
+  },
+  "keywords": [
+    "Services",
+    "Player",
+    "Cloud",
+    "Remote",
+    "Cross Platform"
+  ],
+  "author": "Microsoft <playfab@microsoft.com>",
+  "publishConfig": {
+    "@zombience:registry": "https://npm.pkg.github.com/"
+  },
+  "hideInEditor": false,
+  "license": "Apache-2.0"
+}
