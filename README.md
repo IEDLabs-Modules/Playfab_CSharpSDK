@@ -1,5 +1,11 @@
-# CSharpSDK README
+# Forked Overview:
+This fork was created for a single line change which allows this packaged to be used in Unity. 
+This package allows use within Unity without relying on any Unity-specific structures such as Monobehaviours.
+It avoids use of coroutines in favor of async / await. 
 
+This fork has `main` branch is based on tag [1.178.240401](https://github.com/PlayFab/CSharpSDK/tree/1.178.240401) from the main Playfab CSharpSDK repo. The only modifications beyond that are one `#define` change and addtion of `package.json` file to set up use as a Unity Package.
+
+# CSharpSDK README
 
 ## 1. Overview:
 
