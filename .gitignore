@@ -12,3 +12,5 @@ PlayFabServerSDK/
 *.suo
 *.user
 *.nupkg
+*.lnk
+PlayFabSDK/.idea

@@ -51,5 +51,6 @@
   <ItemGroup>
     <None Include="LICENSE" Pack="true" PackagePath="" />
     <None Include="../images/icon.png" Pack="true" PackagePath=""/>
+    <None Remove="*.cs.meta" />
   </ItemGroup>
 </Project>
